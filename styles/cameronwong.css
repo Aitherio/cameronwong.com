@@ -1,0 +1,9 @@
+h2{
+    color: #09267A;
+}
+
+.jumbotron{
+    margin-bottom: 10px;
+    color: #fff;
+    background: #fff url("../images/cover.jpg") top center no-repeat;
+}
